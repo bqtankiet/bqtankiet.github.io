@@ -2,8 +2,8 @@
     "role": "Machine Learning & Backend Developer",
     "education": "Nong Lam University (Graduating 2026)",
     "main_stack": [
-        "Python (TensorFlow, Keras, NLP)",
-        "Java (Spring Boot, Microservices)",
+        "Python (scikit-learn, TensorFlow, Keras)",
+        "Java (Spring Boot)",
         "DevOps (Docker, CI/CD)"
     ],
     "current_focus": "Vietnamese News Classification & Image Captioning",
