@@ -1,0 +1,34 @@
+{
+    "name": "Tan Kiet",
+    "tagline": "Backend · DevOps · Machine Learning",
+    "avatar": "https://github.com/bqtankiet.png",
+    "email": "bqtankiet.dev@gmail.com",
+    "github": "bqtankiet",
+    "status": "Active",
+    "socials": [
+        {
+            "platform": "github",
+            "url": "https://github.com/bqtankiet",
+            "icon": "fab fa-github",
+            "label": "GitHub"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://linkedin.com/in/bqtankiet",
+            "icon": "fab fa-linkedin",
+            "label": "LinkedIn"
+        },
+        {
+            "platform": "huggingface",
+            "url": "https://huggingface.co/bqtankiet",
+            "icon": "fas fa-robot",
+            "label": "Hugging Face"
+        },
+        {
+            "platform": "email",
+            "url": "mailto:bqtankiet.dev@gmail.com",
+            "icon": "fas fa-envelope",
+            "label": "Email"
+        }
+    ]
+}

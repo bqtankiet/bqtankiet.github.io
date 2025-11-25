@@ -1,0 +1,96 @@
+[
+    {
+        "date": "June 2025",
+        "badge": "Published",
+        "badgeType": "published",
+        "title": "Vietnamese News Classification Research",
+        "organization": "Academic Research Project · Published Preprint",
+        "description": "Designed and executed comparative ML research benchmarking PhoBERT against traditional models (Naive Bayes, SVM, LSTM) for Vietnamese text categorization.",
+        "highlights": [
+            "Built complete pipeline: EDA, preprocessing (Underthesea), feature extraction, model training.",
+            "Achieved <strong>90%+ accuracy</strong> with PhoBERT; documented methodology in ResearchGate preprint."
+        ],
+        "technologies": [
+            "Python",
+            "PhoBERT",
+            "TensorFlow",
+            "scikit-learn"
+        ],
+        "links": [
+            {
+                "label": "View Preprint",
+                "url": "https://dx.doi.org/10.13140/RG.2.2.21571.11044"
+            }
+        ]
+    },
+    {
+        "date": "May 2025",
+        "badge": "Live Demo",
+        "badgeType": "demo",
+        "title": "Image Captioning Model (CNN+RNN)",
+        "organization": "Computer Vision Course Project",
+        "description": "Implemented Show & Tell architecture from scratch. Trained encoder-decoder model on Flickr8k dataset to generate image descriptions.",
+        "highlights": [
+            "Developed Flask inference API and deployed demo on HuggingFace Spaces using Docker."
+        ],
+        "technologies": [
+            "TensorFlow",
+            "Keras",
+            "Flask",
+            "Docker"
+        ],
+        "links": [
+            {
+                "label": "Try Demo",
+                "url": "https://huggingface.co/spaces/bqtankiet/image-captioning-demo"
+            }
+        ]
+    },
+    {
+        "date": "April 2025",
+        "badge": "Production",
+        "badgeType": "production",
+        "title": "Crocodile E-commerce Platform",
+        "organization": "Web Development Course Project · Production Deployment",
+        "description": "Full-stack e-commerce website with complete user/admin workflows. Integrated Firebase OAuth, GHN shipping API, and MoMo payment gateway.",
+        "highlights": [
+            "Deployed on VPS with Docker + Nginx reverse proxy for session management."
+        ],
+        "technologies": [
+            "Java Servlet",
+            "Docker",
+            "Nginx",
+            "MariaDB"
+        ],
+        "links": [
+            {
+                "label": "Visit Site",
+                "url": "https://crocodile.nludemo.id.vn/"
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/bqtankiet/Crocodile"
+            }
+        ]
+    },
+    {
+        "date": "March 2025",
+        "badge": "Completed",
+        "badgeType": "completed",
+        "title": "PaMi Food Delivery App",
+        "organization": "Mobile Development Course Project",
+        "description": "Android food ordering app with Spring Boot backend. Implemented RESTful API integration using Retrofit and real-time order tracking.",
+        "highlights": [],
+        "technologies": [
+            "Java (Android)",
+            "Spring Boot",
+            "Retrofit"
+        ],
+        "links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/bqtankiet/PaMi"
+            }
+        ]
+    }
+]

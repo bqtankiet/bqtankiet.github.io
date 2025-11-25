@@ -1,0 +1,25 @@
+{
+    "greeting": "Hello! I am Tan Kiet's AI Assistant. How can I help you today?",
+    "popupGreeting": "Hi! Need any help?",
+    "options": [
+        {
+            "label": "Summarize Profile",
+            "response": "Tan Kiet is a 3rd-year IT student specializing in Machine Learning & NLP. He has experience with Backend (Java/Spring), DevOps (Docker), and has published research on Vietnamese News Classification."
+        },
+        {
+            "label": "Key Skills",
+            "response": "Core stack: Python, Java, Spring Boot, TensorFlow, Keras, Docker, and Git. He is also familiar with MLOps and deploying models to production."
+        },
+        {
+            "label": "Download Resume",
+            "type": "link",
+            "response": "You can download the full resume here:",
+            "linkText": "Download PDF",
+            "linkUrl": "/resume.pdf"
+        },
+        {
+            "label": "Contact Info",
+            "response": "Email: bqtankiet.dev@gmail.com | LinkedIn: linkedin.com/in/bqtankiet"
+        }
+    ]
+}

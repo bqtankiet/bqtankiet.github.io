@@ -1,0 +1,24 @@
+{
+    "links": [
+        {
+            "id": "about",
+            "label": "About",
+            "href": "#about"
+        },
+        {
+            "id": "interests",
+            "label": "Interests",
+            "href": "#interests"
+        },
+        {
+            "id": "experience",
+            "label": "Experience",
+            "href": "#experience"
+        },
+        {
+            "id": "contact",
+            "label": "Contact",
+            "href": "#contact"
+        }
+    ]
+}

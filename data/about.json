@@ -1,0 +1,17 @@
+{
+    "bio": "Third-year IT student at Nong Lam University (Ho Chi Minh City) focused on Machine Learning & NLP. Experienced with backend (Java/Spring) and DevOps (Docker, Linux) while exploring applied ML (PhoBERT, TensorFlow, LangChain).",
+    "terminal": {
+        "specialization": "ML & NLP (PhoBERT, Captioning)",
+        "current_focus": "Vietnamese News Classification & Image Captioning",
+        "tech_stack": [
+            "Python",
+            "TensorFlow",
+            "Keras",
+            "PhoBERT",
+            "Java",
+            "Docker",
+            "Spring Boot"
+        ],
+        "academic_status": "3rd Year Student (Grad 2026)"
+    }
+}

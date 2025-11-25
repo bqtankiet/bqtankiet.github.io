@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Backend Systems",
+        "description": "Distributed systems, microservices architecture, and performance optimization.",
+        "keywords": [
+            "Java",
+            "Spring Boot",
+            "gRPC"
+        ]
+    },
+    {
+        "title": "DevOps & Infrastructure",
+        "description": "CI/CD pipelines, container orchestration, and infrastructure as code.",
+        "keywords": [
+            "Docker",
+            "Kubernetes",
+            "Terraform"
+        ]
+    },
+    {
+        "title": "Machine Learning Operations",
+        "description": "ML model deployment, monitoring, and integration with production systems.",
+        "keywords": [
+            "MLOps",
+            "LLM",
+            "LangChain"
+        ]
+    }
+]

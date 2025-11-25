@@ -1,0 +1,27 @@
+[
+    {
+        "name": "cyan",
+        "primary": "#00f2fe",
+        "secondary": "#8b5cf6"
+    },
+    {
+        "name": "pink",
+        "primary": "#ec4899",
+        "secondary": "#f97316"
+    },
+    {
+        "name": "green",
+        "primary": "#10b981",
+        "secondary": "#3b82f6"
+    },
+    {
+        "name": "purple",
+        "primary": "#a855f7",
+        "secondary": "#ec4899"
+    },
+    {
+        "name": "orange",
+        "primary": "#f97316",
+        "secondary": "#eab308"
+    }
+]
